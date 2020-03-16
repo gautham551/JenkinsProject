@@ -1,0 +1,21 @@
+2020-03-12 18:44:32,633  INFO [main] BaseClass:46 - *****************Test Case Started***********************
+ 2020-03-12 18:44:50,038  INFO [main] BookReturnCruiseTicket:27 - Step 1 - Clicked on Cruise Link
+ 2020-03-12 18:44:54,046  INFO [main] BookReturnCruiseTicket:29 - Step 2 - Click on Reservations of cruise Img
+ 2020-03-12 18:45:00,826  INFO [main] BookReturnCruiseTicket:31 - Step 3 - Assert if opened pageTitle is correct
+ 2020-03-12 18:45:00,844  INFO [main] BookReturnCruiseTicket:38 - Find a Flight: Mercury Tours: page is dispayed
+ 2020-03-12 18:45:00,844  INFO [main] BookReturnCruiseTicket:43 - Step 4-Check of the RoundTrip Radio button is selected
+ 2020-03-12 18:45:00,927  INFO [main] FindAFlightPage:113 - Selecting the Flight Details
+ 2020-03-12 18:45:16,349  INFO [main] FindAFlightPage:142 - Selecting the Preferences inclass com.edureka.project.ObjectRepo.FindAFlightPage
+ 2020-03-12 18:45:16,669  INFO [main] FindAFlightPage:155 - Clicking on Continue in Find a Flight page
+ 2020-03-12 18:45:18,361  INFO [main] BookReturnCruiseTicket:55 - Clicking on Continue in Select a Flight page
+ 2020-03-12 18:45:18,377  INFO [main] SelectAFlight:30 - Selected the flight
+ 2020-03-12 18:45:20,382  INFO [main] BookReturnCruiseTicket:61 - Asserting Book a Flight Title
+ 2020-03-12 18:45:20,390  INFO [main] BookReturnCruiseTicket:66 - Book a Flight: Mercury Toursis matching
+ 2020-03-12 18:45:20,391  INFO [main] BookAFlight:61 - Enter First Name
+ 2020-03-12 18:45:20,592  INFO [main] BookAFlight:64 - Enter Last Name
+ 2020-03-12 18:45:20,720  INFO [main] BookAFlight:67 - Enter Card Number
+ 2020-03-12 18:45:20,990  INFO [main] BookAFlight:70 - Click on Secure Purchase
+ 2020-03-12 18:45:22,611  INFO [main] BookReturnCruiseTicket:68 - Confirm if ticket is booked
+ 2020-03-12 18:45:22,659  INFO [main] BookReturnCruiseTicket:73 - Your itinerary has been booked!
+ 2020-03-12 18:45:23,761  INFO [main] BaseClass:66 - *****************Test Case Executed***********************
+ 

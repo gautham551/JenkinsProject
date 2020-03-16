@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="11972" started-at="2020-03-16T05:21:39Z" finished-at="2020-03-16T05:21:51Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11972" started-at="2020-03-16T05:21:39Z" finished-at="2020-03-16T05:21:51Z">
+      <class name="Credentials.InvalidLogin$ValidateCredentialsTest">
+        <test-method status="PASS" signature="launchSelectBrowser()[pri:0, instance:Credentials.InvalidLogin$ValidateCredentialsTest@2cfb4a64]" name="launchSelectBrowser" is-config="true" duration-ms="5866" started-at="2020-03-16T05:21:39Z" finished-at="2020-03-16T05:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSelectBrowser -->
+        <test-method status="PASS" signature="loginTo()[pri:0, instance:Credentials.InvalidLogin$ValidateCredentialsTest@2cfb4a64]" name="loginTo" is-config="true" duration-ms="5033" started-at="2020-03-16T05:21:45Z" finished-at="2020-03-16T05:21:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTo -->
+        <test-method status="PASS" signature="InvalidcredentialTest()[pri:0, instance:Credentials.InvalidLogin$ValidateCredentialsTest@2cfb4a64]" name="InvalidcredentialTest" duration-ms="56" started-at="2020-03-16T05:21:50Z" finished-at="2020-03-16T05:21:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidcredentialTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Credentials.InvalidLogin$ValidateCredentialsTest@2cfb4a64]" name="close" is-config="true" duration-ms="977" started-at="2020-03-16T05:21:50Z" finished-at="2020-03-16T05:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Credentials.InvalidLogin$ValidateCredentialsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
